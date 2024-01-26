@@ -1,0 +1,6 @@
+pulumi>=3.0.0,<4.0.0
+pulumi-aws>=6.0.2,<7.0.0
+black==23.12.1
+
+git+https://github.com/frgray/pulumi-aws-py-network.git@v0.1.0
+# s3_bucket @ git@github.com:frgray/pulumi-aws-py-s3_bucket.git@v0.1.0
